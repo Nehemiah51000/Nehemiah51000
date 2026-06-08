@@ -49,6 +49,13 @@ Whether it's **Rafidi** (intentional living & reflection), **My Daftari** (busin
 - **Technology should make people more capable, not more dependent.**  
 - **There's always a third door** – a better way than the obvious trade‑offs.
 
+---
+
+## 📊 Current Streak
+*Darkness isn't the point – it's the light inside it.*
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Nehemiah51000&theme=light&border=FF5C00&ring=FF5C00&fire=FF5C00&currStreakNum=000000&sideNums=000000&background=FFFFFF&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="600" />
+</div>
 
 ---
 
@@ -57,7 +64,6 @@ Whether it's **Rafidi** (intentional living & reflection), **My Daftari** (busin
 I write about frontend development, learning in public, and the philosophy behind building.
 
 👉 [Read my latest article on Medium](https://nehemiahnjoroge.medium.com/)
-
 
 ---
 
