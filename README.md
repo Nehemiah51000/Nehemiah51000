@@ -4,11 +4,13 @@
 -->
 
 # Hey, I'm Nesh 👋
+***Builder. Musician. Student of reality.***
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF5C00&center=false&vCenter=true&width=1000&lines=Building+tools+for+intentional+living;Breaking+things+to+understand+how+they+work;I+always+find+the+third+door)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF5C00&center=false&vCenter=true&width=1000&lines=Building+tools+for+intentional+living;Breaking+things+to+understand+how+they+work;Forget+the+Obvious,+tech+always+has+a+third+door)](https://git.io/typing-svg)
 
-**Builder. Musician. Student of reality.**
 
+
+## 😋 What am about 
 I believe technology should help people think more clearly, create more freely, and live more intentionally.
 
 Right now I'm focused on mastering the web from the ground up: HTML, CSS (layout algorithms, not just colors), JavaScript, React, and Next.js. Alongside that, I'm exploring DevOps, cloud infrastructure, and self‑hosting – because I want to understand the whole stack, from UI to metal.
