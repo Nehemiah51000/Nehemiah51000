@@ -5,6 +5,8 @@
 
 # Hey, I'm Nesh 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF5C00&center=false&vCenter=true&width=1000&lines=Building+tools+for+intentional+living;Breaking+things+to+understand+how+they+work;I+always+find+the+third+door)](https://git.io/typing-svg)
+
 **Builder. Musician. Student of reality.**
 
 I believe technology should help people think more clearly, create more freely, and live more intentionally.
@@ -36,7 +38,6 @@ Whether it's **Rafidi** (intentional living & reflection), **My Daftari** (busin
 | [Rafidi] | Internal testing – a platform for intentional living, journaling, habits, and personal growth |
 | [My Daftari] | Under development – business document generator + inventory for Kenyan/African markets |
 
-
 ---
 
 ## 🧠 Things I believe
@@ -48,8 +49,8 @@ Whether it's **Rafidi** (intentional living & reflection), **My Daftari** (busin
 - **Technology should make people more capable, not more dependent.**  
 - **There's always a third door** – a better way than the obvious trade‑offs.
 
----
 
+---
 
 ## 📝 Latest article
 
@@ -57,7 +58,6 @@ I write about frontend development, learning in public, and the philosophy behin
 
 👉 [Read my latest article on Medium](https://nehemiahnjoroge.medium.com/)
 
-*(Soon this section will dynamically pull from my own blog – RSS magic. For now, manual updates.)*
 
 ---
 
@@ -73,6 +73,8 @@ I write about frontend development, learning in public, and the philosophy behin
 - [X (Twitter)](https://x.com/NehemiahNjo) – random thoughts and building logs  
 - [Instagram](https://www.instagram.com/nesh_njo/) – the hands‑on, bodily‑funny side  
 - Email: nehemiahmwangi25@gmail.com  
+
+![Profile views](https://komarev.com/ghpvc/?username=Nehemiah51000&color=blue&style=flat&label=Wanderers+who+passed+by)
 
 ---
 
