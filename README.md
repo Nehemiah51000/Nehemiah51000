@@ -6,10 +6,6 @@
 # Hey, I'm Nesh 👋
 ***Builder. Musician. Student of reality.***
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF5C00&center=false&vCenter=true&width=1000&lines=Building+tools+for+intentional+living;Breaking+things+to+understand+how+they+work;Forget+the+Obvious,+tech+always+has+a+third+door)](https://git.io/typing-svg)
-
-
-
 ## 😋 What am about 
 I believe technology should help people think more clearly, create more freely, and live more intentionally.
 
@@ -95,7 +91,8 @@ Like Senku from *Dr. Stone* – when everyone sees a trade‑off, I look for the
 The workshop is noisy. The blueprints are scattered.  
 But every commit adds another stone to the foundation.
 
-*Let's build.* 🔨
+## ☺️ The Mantras
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF5C00&center=false&vCenter=true&width=1000&lines=Building+tools+for+intentional+living;Breaking+things+to+understand+how+they+work;Forget+the+Obvious,+tech+always+has+a+third+door)](https://git.io/typing-svg)
 
 ---
 
