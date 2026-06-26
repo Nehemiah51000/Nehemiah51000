@@ -67,7 +67,7 @@ I write about frontend development, learning in public, and the philosophy behin
 
 ## 🎵 Music
 
-`🎵 Musician – debut album planned for 2026`  
+`🎵 Musician – debut album planned for 2027`  
 *More notes when the first track drops.*
 
 ---
